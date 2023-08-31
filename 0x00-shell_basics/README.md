@@ -1,1 +1,1 @@
-new readme
+this is the readme for shell basics
